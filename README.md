@@ -1,2 +1,2 @@
 # Model2
-Model of the Error-page
+Model of the page with 404 error
